@@ -8,7 +8,7 @@ Las carpetas y su contenido son:
   - Cálculo de pendiente en calibrados de diferentes concentraciones > calc_m.m
   - Simulador de mediciones > sim_med.m
   - Graficar los modos de FR > graficar_medicion.m, igualar_long.m, dZ.m
-  - Generar modos ideales de flujo para simulaciones > generar_modo_FR.m, obtenerDuracionModo.m, generarModo.m, modo_ideL.m, obtenerDefinicionModo.m, generarManualCompleto.m, mostrarManual.m
+  - Generar modos ideales de flujo para simulaciones > generar_modo_FR.m, obtenerDuracionModo.m, generarModo.m, modo_ideal.m, obtenerDefinicionModo.m, generarManualCompleto.m, mostrarManual.m
 
 
 
